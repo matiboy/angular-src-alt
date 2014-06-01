@@ -1,0 +1,4 @@
+node_modules/
+.editorconfig
+.jshintrc
+bower_components/

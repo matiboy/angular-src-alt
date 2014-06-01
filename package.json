@@ -1,0 +1,19 @@
+{
+  "name": "angular-src-alt",
+  "author": "Matiboy <mathieu@redaepsolutions.com>",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon": "*",
+    "grunt": "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-contrib-uglify": "*",
+    "matchdep": "*",
+    "grunt-mocha-test": "*",
+    "karma": "~0.12.16",
+    "karma-jasmine": "~0.1.5",
+    "karma-chrome-launcher": "~0.1.4"
+  }
+}

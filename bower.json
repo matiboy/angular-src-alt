@@ -1,0 +1,15 @@
+{
+  "name": "angular-src-alt",
+  "description": "Angular Directive that reacts on image src error and replaces with an alternative image",
+  "main": "dist/angular-src-alt.js",
+  "repository": "git@github.com:matiboy/angular-src-alt.git",
+  "version": "0.0.1",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "angular-mocks": "~1.2.16"
+  }
+}
